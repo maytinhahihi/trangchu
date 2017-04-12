@@ -14,6 +14,7 @@ Các tập tin CSS, JS trong trang chủ của suamaytinhahihi.com
 		    <p>Chúng tôi là đơn vị cung cấp dịch vụ <strong><a href="http://www.suamaytinhahihi.com/">Sửa máy tính tại nhà Hà Nội</a></strong> uy tín chuyên nghiệp nhất hiện nay</p>
         <p>Dịch vụ sửa máy tính tại nhà của Máy tính Ahihi là dịch vụ sửa máy tính chuyên nghiệp phục vụ sửa máy tính tại nhà trong nội thành Hà Nội. Với đội ngũ kĩ thuật có hiểu biết chuyên sâu về máy tính, chúng tôi tự hào là đơn vị cung cấp dịch vụ sửa máy tính tại nhà Hà Nội chất lượng nhất với giá cả cạnh tranh.</p>
 		    <p> Website: http://www.suamaytinhahihi.com/</p>
+		    <p>Logo: <img src="https://cdn.rawgit.com/maytinhahihi/trangchu/bc2cfb9c/logo.jpg" alt="logo sửa máy tính tại nhà Ahihi"/></p>
 		    <p>Fanpage: <a href="https://www.facebook.com/suamaytinhAhihi/"> https://www.facebook.com/suamaytinhAhihi/</a></p>
 		    <p>Twitter: <a href="https://twitter.com/suamaytinhahihi">https://twitter.com/suamaytinhahihi</a></p>
 		</section>
